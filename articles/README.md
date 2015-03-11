@@ -1,6 +1,7 @@
-PiNet (Previously RaspberryPi-LTSP)
-================
-
+---
+title: Pinet: How to make Frank tired!
+layout: default
+---
 ![Login screen](assets/Raspi-Login.png)
       
 ##PiNet Documentation Site - http://pinet.org.uk    
