@@ -1,7 +1,7 @@
 PiNet (Previously RaspberryPi-LTSP)
 ================
 
-![Login screen](images/Raspi-Login.png)
+![Login screen](assets/Raspi-Login.png)
       
 ##PiNet Documentation Site - http://pinet.org.uk    
 ------   
